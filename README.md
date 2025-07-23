@@ -24,8 +24,6 @@ modelgarden1 : AI Models # Vertex AI # Model Garden # JAX OWL-ViT v2 # BERT
 
 ![modelgarden1008.png](./media/modelgarden1008.png)
 
-![modelgarden1008.png](./media/modelgarden1008.png)
-
 ![modelgarden1009.png](./media/modelgarden1009.png)
 
 ![modelgarden1010.png](./media/modelgarden1010.png)
